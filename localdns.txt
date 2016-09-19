@@ -1,0 +1,6 @@
+mywebserver.so.local 192.168.1.20
+fileserver.so.local 192.168.1.10
+ww5.so.local 192.168.1.5
+ww6.so.local 192.168.1.6
+ww7.so.local 192.168.1.7
+ww8.so.local 192.168.1.8
